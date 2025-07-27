@@ -1,7 +1,8 @@
 # AI-powered-Skill-assessment-Personalized-Growth-Navigators
 
 
-
+##Requirements Setting
+Need to install VS Studio before installing the libraries
 
 
 ## 📁 Project Structure
