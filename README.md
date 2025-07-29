@@ -46,3 +46,6 @@ intelligent-skill-assessment-system/
 ├── README.md                   # 📘 Project overview
 └── run.sh                      # 🚀 Script to launch the system
 
+##Notes:
+- No needs to use Vector Database as there are no millions of documents -- Source: RAG Course Coursera (Deepmind.ai) with Weviate -> Module 2 or Module 3
+
